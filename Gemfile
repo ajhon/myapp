@@ -42,3 +42,11 @@ gem 'jbuilder', '~> 1.2'
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+gem 'bootstrap-sass'
+gem 'devise'
+
+group :development do
+  gem 'rails_layout'
+end
+
